@@ -1,4 +1,4 @@
-# Starter Repository for Quality Control Exercise
+# Starter Repository for Software Development Exercise
 
 Student instructions (feel free to remove this section later, as desired):
 
