@@ -7,6 +7,9 @@ Student instructions (feel free to remove this section later, as desired):
 > FYI - students please use a "premium" AlphaVantage API Key shared by the prof (see "Configuration" section below).
 
 
+Students: first visit https://github.com/prof-rossetti/software-dev-exercise and click "Use this template" green button to make a copy of the repo under your own control.
+
+
 ## Setup
 
 
@@ -15,7 +18,7 @@ Clone the repo to download it from GitHub. Perhaps onto the Desktop.
 Navigate to the repo using the command line.
 
 ```sh
-cd ~/Desktop/my-first-app-exercise
+cd ~/Desktop/software-dev-exercise
 ```
 
 Create a virtual environment:
